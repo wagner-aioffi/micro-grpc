@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.grpc:grpc-netty:0.14.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-netty/0.14.0/29130c55a9617fb16f85ee10a0595e88772a1427/grpc-netty-0.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-netty/0.14.0/5d2e3714f8544462f0297b2e8ed2800da20cc25c/grpc-netty-0.14.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
